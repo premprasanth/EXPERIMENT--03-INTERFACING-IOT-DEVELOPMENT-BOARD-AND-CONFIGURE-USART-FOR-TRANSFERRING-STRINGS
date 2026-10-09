@@ -117,7 +117,7 @@ int main(void)
 
   while (1)
   {
-    printf("LOGESH. B\n 212224110034");
+    printf("Saveetha Engineering College");
     HAL_Delay(500);
   }
 }
