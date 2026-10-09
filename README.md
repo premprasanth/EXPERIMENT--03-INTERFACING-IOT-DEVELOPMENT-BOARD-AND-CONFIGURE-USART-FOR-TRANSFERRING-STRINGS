@@ -6,7 +6,7 @@
 
 **ROLL NO: 2305001028**
 
-**DEPARTMENT: Information Technology**
+**DEPARTMENT: CSE**
 
 ## Aim:
 
